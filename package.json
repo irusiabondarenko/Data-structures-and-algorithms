@@ -1,0 +1,21 @@
+{
+  "name": "data_structures",
+  "version": "1.0.0",
+  "description": "code fellows assignment: data structures and algorithms",
+  "main": "functions.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "test.js"
+  },
+  "keywords": [
+    "data_structures"
+  ],
+  "author": "irusiabondarenko@gmail.com",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^3.4.1",
+    "mocha": "^2.3.3"
+  }
+}
